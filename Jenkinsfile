@@ -7,6 +7,7 @@ pipeline {
                 sh 'echo "Hello World2"'
                                 sh 'echo "Hello World3"'
                                 sh 'echo "Hello World4"'
+                                sh 'echo "Hello World5"'
                 sh '''
                     echo "Multiline shell steps works too"
                     ls -lah
